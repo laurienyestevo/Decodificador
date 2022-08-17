@@ -1,0 +1,132 @@
+* {
+    font-family: "inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height:150% ; 
+}
+body{
+    background-color: rgb(235,237,249);
+    
+}
+
+.main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.titulo{
+    font-size: 40px;
+    color: #3c4565;
+    font-weight:bold;
+    font-family: 'Cinzel', serif;;
+}
+
+
+
+
+.input-text{
+    margin-top: 50px;
+    opacity: 0.7;
+    border: none;
+    resize: none;
+    border-radius: 50px;
+    font-weight: 200;
+    padding-left: 30px;
+    background-color: rgb(235,237,249) ;
+   
+}
+
+.mensagens{
+    position: absolute;
+    box-sizing: border-box;
+    width: 400px;
+    height: 580px;
+    margin-top: 50px;
+    margin-left: 90px;
+    background-image: url("../img/hacker4.png") ;
+    background-color: rgb(244, 247, 249);
+    background-repeat: no-repeat;
+    background-position: center 1em, left top;
+    box-shadow: 0px 24px 32px -8px ;
+    border-radius: 32px;
+    border-color: transparent;
+    line-height: 150%;
+    font-size: 20px;
+    padding: 10px 10px;
+    padding-top: 200px;
+    text-align: center ;
+    resize: none;
+       
+    
+}
+
+.botoes{
+    display: flex;
+    margin-top: 20px;
+    
+    
+}
+
+.informacao{
+    font-size: 15px;
+    color: black;  
+}
+
+.encriptar{
+    background-color: rgb(10,56,113);
+    border-radius: 24px;
+    color: white;
+    font-size: 20px;
+    width: 250px;
+}
+
+.desencriptar{
+    background-color: lightblue;
+    color: rgb(13, 13, 14);
+    margin-left: 30px;
+    border-radius: 24px;
+    font-size: 20px;
+    width: 250px;
+    height: 50px;
+    
+    
+}
+
+.informacao{
+    font-size: 15px;
+}
+
+#rodape{
+    text-align: center;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+    margin-bottom: 15px;
+    
+    
+    
+}
+
+.botoes-redes{
+   margin-left: 1rem;
+   display: inline-block;
+   
+
+    
+}
+.redes-sociais{
+    vertical-align: middle;
+    
+}
+
+
+
+.desenvolvedor{
+    font-size: 15px;
+    text-align: center;
+    
+    
+    
+    
+    
+}
